@@ -28,7 +28,7 @@ The notebook expects a CSV file named `placement.csv` with the following columns
 
 .
 ├── end_to_end_ml.ipynb   # Main notebook with the full pipeline
-├── placement.csv             # The data used
+├── placement.csv         # The data used
 └── README.md
 
 
