@@ -26,10 +26,9 @@ The notebook expects a CSV file named `placement.csv` with the following columns
 
 ## Project Structure
 
-.
-├── end_to_end_ml.ipynb   # Main notebook with the full pipeline
-├── placement.csv         # The data used
-└── README.md
+**end_to_end_ml.ipynb**   # Main notebook with the full pipeline
+**placement.csv**         # The data used
+**README.md**
 
 
 ## Results
